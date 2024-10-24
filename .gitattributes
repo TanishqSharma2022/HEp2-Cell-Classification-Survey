@@ -1,2 +1,117 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+# HEp-2 Cell Classification: A Comprehensive Research Survey (2012-2024) 🔬
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-October%202024-blue.svg)](https://github.com/yourusername/HEp2-Cell-Classification-Survey)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+
+## 📋 Overview
+
+This repository provides a comprehensive survey of Indirect Immunofluorescence (IIF) HEp-2 cell image classification techniques, focusing on developments from 2012 to 2024. The survey covers traditional machine learning approaches through to state-of-the-art deep learning methods, offering insights into datasets, methodologies, and performance metrics.
+
+## 📑 Table of Contents
+
+1. [Introduction](#introduction)
+2. [Research Timeline](#research-timeline)
+3. [Datasets](#datasets)
+4. [Methods](#methods)
+5. [Performance Analysis](#performance-analysis)
+6. [Contributing](#contributing)
+7. [Citation](#citation)
+8. [License](#license)
+
+## 🎯 Introduction
+
+HEp-2 (Human Epithelial type 2) cell pattern classification is crucial for diagnosing autoimmune diseases through Antinuclear Antibody (ANA) testing. This survey aims to:
+
+- Track the evolution of classification methods
+- Compare performance metrics across different approaches
+- Identify trends and challenges in the field
+- Provide insights into future research directions
+
+## 📅 Research Timeline
+
+Our survey covers three main eras:
+- Traditional Machine Learning (2012-2015)
+- Early Deep Learning (2015-2017)
+- Advanced Deep Learning & Current SOTA (2018-2024)
+
+## 💾 Datasets
+
+Detailed analysis of major HEp-2 datasets:
+
+| Dataset | Year | Images | Classes | Usage |
+|---------|------|---------|----------|--------|
+| MIVIA | 2012 | 1,527 | 6 | Training/Testing |
+| ICPR | 2012 | 721 | 6 | Benchmarking |
+| I3A | 2014 | 20,596 | 7 | Competition |
+| SNPHEp-2 | 2015 | 1,884 | 40+ | Research |
+
+## 🔧 Methods
+
+The repository contains detailed analysis of:
+
+### Traditional Methods
+- Feature Engineering Approaches
+- Classical Machine Learning Models
+- Texture Analysis Techniques
+
+### Deep Learning Methods
+- Convolutional Neural Networks
+- Transfer Learning Approaches
+- Attention Mechanisms
+- Vision Transformers
+- Hybrid Architectures
+
+## 📊 Performance Analysis
+
+Comprehensive performance comparisons including:
+- Accuracy metrics over time
+- Model complexity analysis
+- Training requirements
+- Clinical applicability
+
+## 🤝 Contributing
+
+We welcome contributions! Please feel free to:
+
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+### Contribution Areas
+- Additional research papers
+- Performance metrics
+- Implementation details
+- Dataset information
+- Error analysis
+- Clinical insights
+
+## 📚 Citation
+
+If you use this survey in your research, please cite:
+
+```bibtex
+@misc{hep2survey2024,
+  title={HEp-2 Cell Classification: A Comprehensive Research Survey (2012-2024)},
+  author={[Your Name]},
+  year={2024},
+  publisher={GitHub},
+  journal={GitHub repository},
+  howpublished={\url{https://github.com/yourusername/HEp2-Cell-Classification-Survey}}
+}
+```
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
+## 📞 Contact
+
+[Your Name] - [your.email@domain.com]
+
+Project Link: [https://github.com/yourusername/HEp2-Cell-Classification-Survey](https://github.com/yourusername/HEp2-Cell-Classification-Survey)
+
+---
+⭐ Consider starring this repository if you found it helpful!

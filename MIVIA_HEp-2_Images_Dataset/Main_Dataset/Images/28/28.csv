@@ -1,0 +1,14 @@
+intensity;cell_ID;seed_pointX;seed_pointY;object_type;pattern;minX;minY;maxX;maxY
+intermediate;001;424;103;cell;cytoplasmatic;136;69;721;179
+intermediate;002;599;156;cell;cytoplasmatic;452;78;718;201
+intermediate;003;588;225;cell;cytoplasmatic;354;136;683;280
+intermediate;004;497;388;cell;cytoplasmatic;405;263;667;611
+intermediate;005;789;330;cell;cytoplasmatic;542;235;938;530
+intermediate;006;1040;328;cell;cytoplasmatic;969;182;1121;479
+intermediate;007;1098;252;cell;cytoplasmatic;1050;51;1154;365
+intermediate;008;1182;218;cell;cytoplasmatic;1124;60;1229;354
+intermediate;009;1158;459;cell;cytoplasmatic;1112;357;1256;626
+intermediate;010;964;802;cell;cytoplasmatic;871;688;1148;1004
+intermediate;011;813;679;cell;cytoplasmatic;763;441;878;874
+intermediate;012;130;737;cell;cytoplasmatic;73;635;184;804
+intermediate;013;173;843;cell;cytoplasmatic;113;794;247;922
